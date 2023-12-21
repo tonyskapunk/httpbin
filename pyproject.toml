@@ -39,7 +39,7 @@ dependencies = [
     'greenlet >= 3.0.0a1; python_version>="3.12.0rc0"',
     'importlib-metadata; python_version<"3.8"',
     "six",
-    "werkzeug >= 0.14.1",
+    "werkzeug >= 2.2.2",
 ]
 
 [project.optional-dependencies]
