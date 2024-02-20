@@ -75,6 +75,8 @@ Releases are triggered on commits tagged with `release-` (for example
 
 
 ## Changelog
+* 0.10.2:
+  - Added support for Flask 3.0
 * 0.10.1:
   - Substantial housekeeping, dependency cleanup, image building, and packaging revamp, thanks to @exhuma and @mgorny
 * 0.10.0:
